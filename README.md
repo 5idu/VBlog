@@ -4,8 +4,6 @@
 ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg)
 ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
 
-## [中文文档](README.md)
-
 ## Demo
 
 [https://5idu.github.io][1]
